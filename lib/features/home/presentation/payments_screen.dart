@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:driver_app/core/constants/app_colors.dart';
+import 'package:driver_fleet_admin/core/constants/app_colors.dart';
 
 class PaymentsScreen extends StatelessWidget {
   const PaymentsScreen({super.key});

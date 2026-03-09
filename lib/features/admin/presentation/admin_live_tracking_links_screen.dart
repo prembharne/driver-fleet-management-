@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:intl/intl.dart';
-import 'package:driver_app/features/tracking/presentation/live_tracking_viewer_screen.dart';
+import 'package:driver_fleet_admin/features/tracking/presentation/live_tracking_viewer_screen.dart';
 
 class AdminLiveTrackingLinksScreen extends StatefulWidget {
   const AdminLiveTrackingLinksScreen({super.key});

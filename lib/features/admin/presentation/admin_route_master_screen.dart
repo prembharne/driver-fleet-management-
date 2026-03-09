@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:driver_app/core/services/routing_service.dart';
+import 'package:driver_fleet_admin/core/services/routing_service.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 /// Admin screen to view, edit, and delete all routes in route_master.

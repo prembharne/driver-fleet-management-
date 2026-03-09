@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../tracking/presentation/tracking_screen.dart';
-import 'package:driver_app/core/constants/app_colors.dart';
+import 'package:driver_fleet_admin/core/constants/app_colors.dart';
 
 class NotificationsScreen extends StatefulWidget {
   const NotificationsScreen({super.key});

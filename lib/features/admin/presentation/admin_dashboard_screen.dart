@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:driver_app/features/auth/services/auth_service.dart';
-import 'package:driver_app/features/admin/presentation/admin_assign_trip_web.dart';
-import 'package:driver_app/features/admin/presentation/admin_advance_dashboard.dart';
-import 'package:driver_app/features/admin/presentation/admin_reports_screen.dart';
-import 'package:driver_app/features/admin/presentation/admin_manage_drivers_screen.dart';
-import 'package:driver_app/features/admin/presentation/admin_document_review_screen.dart';
-import 'package:driver_app/features/admin/presentation/admin_route_master_screen.dart';
-import 'package:driver_app/features/admin/presentation/admin_arrival_notification_wrapper.dart';
-import 'package:driver_app/features/admin/presentation/admin_billing_ledger_screen.dart';
-import 'package:driver_app/features/admin/presentation/admin_live_tracking_links_screen.dart';
+import 'package:driver_fleet_admin/features/auth/services/auth_service.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_assign_trip_web.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_advance_dashboard.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_reports_screen.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_manage_drivers_screen.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_document_review_screen.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_route_master_screen.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_arrival_notification_wrapper.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_billing_ledger_screen.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_live_tracking_links_screen.dart';
 
 /// Admin Dashboard — displays the admin's name dynamically and provides
 /// quick-action tiles in a responsive 4-column grid.

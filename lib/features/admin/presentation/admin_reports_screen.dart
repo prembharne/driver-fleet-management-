@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:intl/intl.dart';
-import 'package:driver_app/features/admin/utils/file_download.dart';
+import 'package:driver_fleet_admin/features/admin/utils/file_download.dart';
 
 /// Admin-facing monthly report screen.
 /// Shows all drivers' trips, KM, advances, and issues for a selected month.

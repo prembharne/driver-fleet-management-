@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:driver_app/features/auth/services/auth_service.dart';
-import 'package:driver_app/features/admin/presentation/admin_dashboard_screen.dart';
+import 'package:driver_fleet_admin/features/auth/services/auth_service.dart';
+import 'package:driver_fleet_admin/features/admin/presentation/admin_dashboard_screen.dart';
 
 /// Separate entry point for the Admin Web Portal.
 /// Run with: flutter run -d chrome --target lib/main_admin.dart --web-port 8081

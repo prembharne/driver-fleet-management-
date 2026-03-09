@@ -3,7 +3,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
-import 'package:driver_app/core/services/routing_service.dart';
+import 'package:driver_fleet_admin/core/services/routing_service.dart';
 
 class AdminCreateTripScreen extends StatefulWidget {
   const AdminCreateTripScreen({super.key});

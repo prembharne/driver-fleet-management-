@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:driver_app/features/auth/services/auth_service.dart';
-import 'package:driver_app/features/home/presentation/home_screen.dart';
+import 'package:driver_fleet_admin/features/auth/services/auth_service.dart';
+import 'package:driver_fleet_admin/features/home/presentation/home_screen.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 /// Driver login / sign-up screen (Reverted to Email/Password).

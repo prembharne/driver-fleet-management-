@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:driver_app/core/constants/app_colors.dart';
-import 'package:driver_app/features/auth/services/auth_service.dart';
+import 'package:driver_fleet_admin/core/constants/app_colors.dart';
+import 'package:driver_fleet_admin/features/auth/services/auth_service.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class VehiclesScreen extends StatefulWidget {

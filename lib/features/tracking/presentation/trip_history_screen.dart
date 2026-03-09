@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:driver_app/features/tracking/services/tracking_service.dart';
+import 'package:driver_fleet_admin/features/tracking/services/tracking_service.dart';
 
 class TripHistoryScreen extends StatefulWidget {
   const TripHistoryScreen({super.key});
